@@ -20,9 +20,15 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
   - `Étape2-Présentation_du_projet-SDS3786-Groupe5.pdf` = diapositifs pour la presentation en classe
   - `project_rapport_SDS3786_Groupe5.pdf` = rapport utilisé pour la presentation video finale
 
-## Caractéristiques principales
-
-## Skills Demonstrated
+## Compétences démontrées
+- J'ai travaillé sur :
+  - Collecte des données = téléchargement et sélection de fichiers CSV
+  - Nettoyage et Fusion = uniformisation, format des dates, suppression de colonnes
+  - Analyse exploratoire (EDA) = statistiques descriptives et visualisations
+  - Multi-ville et cartes = comparaisons entre villes et cartes interactives
+  - Implémentation Python (Panel/HvPlot) = dashboard et visualisations interactives
+  - Tests et Ajustements = vérification de l’interactivité et cohérence globale
+  - Rapport final (en collaboration avec ma partenaire) =rédaction et synthèse des résultats
 
 ## Utilisation
 
