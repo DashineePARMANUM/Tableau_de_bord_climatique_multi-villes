@@ -30,7 +30,10 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
 -
 
 ## Data Source and License
-- **Ottawa et Vancouver:** Les fichiers CSV ont été téléchargés pour les années 2020 à 2024 (un fichier par année) à partir la page suivante (données pour 2020) : [Ottawa](https://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=2011-12-14%7C2025-03-15&dlyRange=2011-12-15%7C2025-03-14&mlyRange=%7C&StationID=49568&Prov=ON&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2025&selRowPerPage=25&Line=14&searchMethod=contains&Month=1&Day=15&txtStationName=ottawa&timeframe=2&Year=2020), puis combinés dans Excel afin d’obtenir une seule base de données complète couvrant la période 2020-2024.
+- **Ottawa et Vancouver:** Les fichiers CSV ont été téléchargés pour les années 2020 à 2024 (un fichier par année) à partir la page suivante (données pour 2020) : [Ottawa](https://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=2011-12-14%7C2025-03-15&dlyRange=2011-12-15%7C2025-03-14&mlyRange=%7C&StationID=49568&Prov=ON&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2025&selRowPerPage=25&Line=14&searchMethod=contains&Month=1&Day=15&txtStationName=ottawa&timeframe=2&Year=2020) et [Vancouver](https://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=2013-06-11%7C2025-03-15&dlyRange=2013-06-13%7C2025-03-15&mlyRange=%7C&StationID=51442&Prov=BC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2025&selRowPerPage=25&Line=41&searchMethod=contains&txtStationName=vancouver&timeframe=2&Day=15&Year=2020&Month=1), puis combinés dans Excel afin d’obtenir une seule base de données complète couvrant la période 2020-2024 (Ottawa = OTTAWA INTL A, Vancouver = VANCOUVER INTL A).
+- 
+
+
 
 ---
 *Contact: dashinee.parmanum@gmail.com*  
