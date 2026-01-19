@@ -16,9 +16,9 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
   - `ville_4.csv` = fichiers dont les données relatives à la neige (Ottawa/Vancouver) et à la pression (autres) ont été supprimées afin de ne contenir que les colonnes présentes dans les 6 jeux de données
   - `ville_clean.csv` =  fichiers imputés
 - **`docs`:**
-  - `Étape1-Proposition_de_projet-SDS3786-Groupe5.pdf`
-  - `Étape2-Présentation_du_projet-SDS3786-Groupe5.pdf`
-  - `project_rapport_SDS3786_Groupe5.pdf`
+  - `Étape1-Proposition_de_projet-SDS3786-Groupe5.pdf` = proposition initiale du project
+  - `Étape2-Présentation_du_projet-SDS3786-Groupe5.pdf` = diapositifs pour la presentation en classe
+  - `project_rapport_SDS3786_Groupe5.pdf` = rapport utilisé pour la presentation video finale
 
 ## Key Features
 -
