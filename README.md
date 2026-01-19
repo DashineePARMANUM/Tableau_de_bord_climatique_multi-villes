@@ -3,7 +3,7 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
 
 ---
 
-## Files and Folders
+## Fichiers et dossiers
 - **`code`:**
   - **`Arielle`** = code ecrit par ma partenaire :
     - `IMPUTATION&CLUSTERING&TIME_SERIES_SDS3786_Groupe5.ipynb`
