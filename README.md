@@ -3,10 +3,6 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
 
 ---
 
-This project demonstrates data cleaning, analysis, and visualization using Excel, Power BI and SQL on a U.S. Superstore sales dataset.
-
----
-
 ## Files and Folders
 - **`code`:**
 - **`data`:**
