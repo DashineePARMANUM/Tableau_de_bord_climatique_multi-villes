@@ -54,7 +54,7 @@ Pair project for SDS 3786 - Data Science Laboratory
     - `project_dashboard_SDS3786_Groupe5.ipynb` = dashboard  
 - **`data`** = datasets
   - `ville_2.csv` = files whose columns were standardized directly in Excel
-  - `ville_4.csv` = files where columns for snow (Ottawa/Vancouver) and pressure (other) have been removed to contain only the columns present in all 6 datasets
+  - `ville_4.csv` = files with snow (Ottawa/Vancouver) and pressure (other cities) data removed to match columns across all 6 datasets
   - `ville_clean.csv` = imputed files
 - **`docs`**
   - `Étape1_Proposition_de_projet_SDS3786_Groupe5.pdf` = initial project proposal  
