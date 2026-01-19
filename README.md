@@ -24,7 +24,7 @@ J'ai travaillé sur :
 - **Nettoyage et Fusion** = uniformisation, format des dates, suppression de colonnes
 - **Analyse exploratoire (EDA)** = statistiques descriptives et visualisations
 - **Multi-ville et cartes** = comparaisons entre villes et cartes interactives
-- **Implémentation Python* (Panel/HvPlot)** = dashboard et visualisations interactives
+- **Implémentation Python (Panel/HvPlot)** = dashboard et visualisations interactives
 - **Tests et Ajustements** = vérification de l’interactivité et cohérence globale
 - **Rapport final** (en collaboration avec ma partenaire) = rédaction et synthèse des résultats
   
