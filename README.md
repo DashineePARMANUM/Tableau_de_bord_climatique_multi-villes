@@ -11,7 +11,7 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
     - `project_EDA_SDS3786_Groupe5.ipynb` = analyse exploratoire des données
     - `project_Multi_ville&Cartes_SDS3786_Groupe5.ipynb` = multi ville et cartes
     - `project_dashboard_SDS3786_Groupe5.ipynb` = dashboard
-- **`data`:** tous les fichiers
+- **`data`:** tous les fichiers de données
 - **`docs`**
 
 ## Key Features
