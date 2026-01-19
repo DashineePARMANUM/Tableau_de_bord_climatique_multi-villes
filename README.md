@@ -6,9 +6,11 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
 ## Files and Folders
 - **`code`:**
   - **`Arielle`** = code ecrit par ma partenaire :
-    - `IMPUTATION&CLUSTERING&TIME_SERIES_SDS3786_Groupe5.ipynb` 
+    - `IMPUTATION&CLUSTERING&TIME_SERIES_SDS3786_Groupe5.ipynb`
   - **`Dashinee`** = code ecrit par moi :
-    - 
+    - `project_EDA_SDS3786_Groupe5.ipynb` 
+    - `project_Multi_ville&Cartes_SDS3786_Groupe5.ipynb`
+    - `project_dashboard_SDS3786_Groupe5.ipynb`
 - **`data`:** tous les fichiers
 - **`docs`**
 
