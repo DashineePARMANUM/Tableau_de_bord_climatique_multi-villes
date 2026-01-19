@@ -5,7 +5,9 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
 
 ## Files and Folders
 - **`code`:**
-- **`data`:**
+  - **`Arielle` (code ecrit par ma partenaire, Arielle):** 
+  - **`Dashinee`:** code ecrit par moi
+- **`data`:** tous les fichiers
 - **`docs`**
 
 ## Key Features
