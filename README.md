@@ -42,7 +42,7 @@ Pour reproduire les résultats :
 ---
 ---
 # Multi-city Climate Dashboard
-Pair project for SDS 3786 - Data Science Laboratory
+Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
 
 ## Files and Folders
 - **`code`**
