@@ -82,5 +82,6 @@ To reproduce the results:
 
 ---
 ---
+*Honours Bachelor of Science in Statistics - University of Ottawa*
 *Contact: dashinee.parmanum@gmail.com*  
 *LinkedIn: https://www.linkedin.com/in/dashinee-parmanum/*
