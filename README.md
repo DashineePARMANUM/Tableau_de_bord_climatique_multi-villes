@@ -18,14 +18,22 @@ Projet en binôme pour SDS 3786 - Laboratoire en science des données
   - `Étape2-Présentation_du_projet-SDS3786-Groupe5.pdf` = diapositifs pour la presentation en classe
   - `project_rapport_SDS3786_Groupe5.pdf` = rapport utilisé pour la presentation video finale
 
-## Compétences démontrées
-- **Collecte des données** = téléchargement et sélection de fichiers CSV
-- **Nettoyage et Fusion** = uniformisation, format des dates, suppression de colonnes
-- **Analyse exploratoire (EDA)** = statistiques descriptives et visualisations
-- **Multi-ville et cartes** = comparaisons entre villes et cartes interactives
-- **Implémentation Python (Panel/HvPlot)** = dashboard et visualisations interactives
-- **Tests et Ajustements** = vérification de l’interactivité et cohérence globale
-- **Rapport final** (en collaboration avec ma partenaire) = rédaction et synthèse des résultats
+## Contributions
+- Dashinee :
+  - **Collecte des données**: Téléchargement des 6 fichiers CSV (Canada, Île Maurice, Bénin)
+  - **Nettoyage et Fusion**: Uniformisation des colonnes, format de date, suppression des colonnes non-utilisé
+  - **Analyse exploratoire (EDA)**: Visualisation et calcul de statistiques descriptives pour toutes les villes
+  - **Multi-ville et cartes**: Graphiques comparatifs, cartes avec couleurs/clusters, tooltips, indicateurs par ville
+  - **Implémentation Python (Panel/HvPlot)**: Codage du tableau de bord et intégration des visualisations
+  - **Tests et Ajustements**: Vérification de l’interactivité, cohérence générale et ajustements 
+  - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
+  data collection, EDA, multi-city analysis, dashboard development, testing, and report writing
+- Arielle :
+  - **Imputation** : Moyenne mobile / imputation saisonnière pour valeurs manquantes 
+  - **Clustering** : Création de groupes climatiques (K-Means ou DBSCAN) pour toutes les villes
+  - **Séries temporelles & prévisions** : Analyse des tendances 2020-2024 et prévisions pour les mois/année à venir
+  - **Design du dashboard** : Choix des widgets, disposition, interactivité multi-villes
+  - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
   
 ## Utilisation
 Pour ce projet, le développement a été réalisé dans un environnement Google Colab.  
@@ -60,14 +68,22 @@ Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
   - `Étape2_Presentation_du_projet_SDS3786_Groupe5.pdf` = in-class presentation slides  
   - `project_rapport_SDS3786_Groupe5.pdf` = report used for final video presentation
 
-## Skills Demonstrated
-- **Data collection**: downloading and selecting relevant CSV files  
-- **Data cleaning and merging**: column standardization, date formatting, and variable removal  
-- **Exploratory Data Analysis (EDA)**: descriptive statistics and data visualizations  
-- **Multi-city analysis and mapping**: regional comparisons and interactive maps  
-- **Python implementation (Panel / hvPlot)**: development of an interactive dashboard  
-- **Testing and adjustments**: validation of interactivity and overall consistency  
-- **Final report (collaborative work)**: writing and synthesis of results  
+## Contributions
+- Dashinee :
+  - **Collecte des données**: Téléchargement des 6 fichiers CSV (Canada, Île Maurice, Bénin)
+  - **Nettoyage et Fusion**: Uniformisation des colonnes, format de date, suppression des colonnes non-utilisé
+  - **Analyse exploratoire (EDA)**: Visualisation et calcul de statistiques descriptives pour toutes les villes
+  - **Multi-ville et cartes**: Graphiques comparatifs, cartes avec couleurs/clusters, tooltips, indicateurs par ville
+  - **Implémentation Python (Panel/HvPlot)**: Codage du tableau de bord et intégration des visualisations
+  - **Tests et Ajustements**: Vérification de l’interactivité, cohérence générale et ajustements 
+  - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
+  data collection, EDA, multi-city analysis, dashboard development, testing, and report writing
+- Arielle :
+  - **Imputation** : Moyenne mobile / imputation saisonnière pour valeurs manquantes 
+  - **Clustering** : Création de groupes climatiques (K-Means ou DBSCAN) pour toutes les villes
+  - **Séries temporelles & prévisions** : Analyse des tendances 2020-2024 et prévisions pour les mois/année à venir
+  - **Design du dashboard** : Choix des widgets, disposition, interactivité multi-villes
+  - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
 
 ## Usage
 This project was developed using Google Colab.  
