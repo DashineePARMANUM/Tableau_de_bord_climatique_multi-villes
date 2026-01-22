@@ -19,7 +19,6 @@ Projet en pair pour SDS 3786 - Laboratoire en science des données
   - `project_rapport_SDS3786_Groupe5.pdf` = rapport utilisé pour la presentation video finale
 
 ## Compétences démontrées
-J'ai travaillé sur :
 - **Collecte des données** = téléchargement et sélection de fichiers CSV
 - **Nettoyage et Fusion** = uniformisation, format des dates, suppression de colonnes
 - **Analyse exploratoire (EDA)** = statistiques descriptives et visualisations
