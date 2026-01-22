@@ -27,7 +27,6 @@ Projet en binôme pour SDS 3786 - Laboratoire en science des données
   - **Implémentation Python (Panel/HvPlot)**: Codage du tableau de bord et intégration des visualisations
   - **Tests et Ajustements**: Vérification de l’interactivité, cohérence générale et ajustements 
   - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
-  data collection, EDA, multi-city analysis, dashboard development, testing, and report writing
 - Arielle :
   - **Imputation** : Moyenne mobile / imputation saisonnière pour valeurs manquantes 
   - **Clustering** : Création de groupes climatiques (K-Means ou DBSCAN) pour toutes les villes
@@ -77,7 +76,6 @@ Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
   - **Implémentation Python (Panel/HvPlot)**: Codage du tableau de bord et intégration des visualisations
   - **Tests et Ajustements**: Vérification de l’interactivité, cohérence générale et ajustements 
   - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
-  data collection, EDA, multi-city analysis, dashboard development, testing, and report writing
 - Arielle :
   - **Imputation** : Moyenne mobile / imputation saisonnière pour valeurs manquantes 
   - **Clustering** : Création de groupes climatiques (K-Means ou DBSCAN) pour toutes les villes
