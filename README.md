@@ -1,5 +1,5 @@
 # Tableau de bord climatique multi-villes
-Projet en pair pour SDS 3786 - Laboratoire en science des données
+Projet en binôme pour SDS 3786 - Laboratoire en science des données
 
 ## Fichiers et dossiers
 - **`code`:**
