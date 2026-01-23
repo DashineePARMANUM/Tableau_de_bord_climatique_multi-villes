@@ -30,7 +30,7 @@ Projet en binôme pour SDS 3786 - Laboratoire en science des données
 - Arielle :
   - **Imputation** : Moyenne mobile / imputation saisonnière pour valeurs manquantes 
   - **Clustering** : Création de groupes climatiques (K-Means ou DBSCAN) pour toutes les villes
-  - **Séries temporelles & prévisions** : Analyse des tendances 2020-2024 et prévisions pour les mois/année à venir
+  - **Séries temporelles & prévisions** : Analyse des tendances 2020-2024 et prévisions pour les mois/années à venir
   - **Design du dashboard** : Choix des widgets, disposition, interactivité multi-villes
   - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
   
