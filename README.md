@@ -21,7 +21,7 @@ Projet en binôme pour SDS 3786 - Laboratoire en science des données
 ## Contributions
 - Dashinee :
   - **Collecte des données**: Téléchargement des 6 fichiers CSV (Canada, Île Maurice, Bénin)
-  - **Nettoyage et Fusion**: Uniformisation des colonnes, format de date, suppression des colonnes non-utilisé
+  - **Nettoyage et Fusion**: Uniformisation des colonnes, format de date, suppression des colonnes non utilisées
   - **Analyse exploratoire (EDA)**: Visualisation et calcul de statistiques descriptives pour toutes les villes
   - **Multi-ville et cartes**: Graphiques comparatifs, cartes avec couleurs/clusters, tooltips, indicateurs par ville
   - **Implémentation Python (Panel/HvPlot)**: Codage du tableau de bord et intégration des visualisations
