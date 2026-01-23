@@ -68,20 +68,21 @@ Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
   - `project_rapport_SDS3786_Groupe5.pdf` = report used for final video presentation
 
 ## Contributions
-- Dashinee :
-  - **Collecte des données**: Téléchargement des 6 fichiers CSV (Canada, Île Maurice, Bénin)
-  - **Nettoyage et Fusion**: Uniformisation des colonnes, format de date, suppression des colonnes non utilisé
-  - **Analyse exploratoire (EDA)**: Visualisation et calcul de statistiques descriptives pour toutes les villes
-  - **Multi-ville et cartes**: Graphiques comparatifs, cartes avec couleurs/clusters, tooltips, indicateurs par ville
-  - **Implémentation Python (Panel/HvPlot)**: Codage du tableau de bord et intégration des visualisations
-  - **Tests et Ajustements**: Vérification de l’interactivité, cohérence générale et ajustements 
-  - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
-- Arielle :
-  - **Imputation** : Moyenne mobile / imputation saisonnière pour valeurs manquantes 
-  - **Clustering** : Création de groupes climatiques (K-Means ou DBSCAN) pour toutes les villes
-  - **Séries temporelles & prévisions** : Analyse des tendances 2020-2024 et prévisions pour les mois/année à venir
-  - **Design du dashboard** : Choix des widgets, disposition, interactivité multi-villes
-  - **Rapport final (travail collaboratif)**: Rédaction du PDF (résumé, captures d’écran, références)
+- Dashinee:
+  - **Data Collection**: Downloaded the 6 CSV files (Canada, Mauritius, Benin)
+  - **Cleaning and Merging**: Standardized columns, formatted dates, removed unused columns
+  - **Exploratory Data Analysis (EDA)**: Visualizations and calculation of descriptive statistics for all cities
+  - **Multi-city and Maps**: Comparative charts, maps with colors/clusters, tooltips, city-specific indicators
+  - **Python Implementation (Panel/HvPlot)**: Coded the dashboard and integrated visualizations
+  - **Testing and Adjustments**: Checked interactivity, overall consistency, and made adjustments
+  - **Final Report (collaborative work)**: Writing the PDF (summary, screenshots, references)
+
+- Arielle:
+  - **Imputation**: Rolling mean / seasonal imputation for missing values
+  - **Clustering**: Created climate groups (K-Means or DBSCAN) for all cities
+  - **Time Series & Forecasting**: Analysis of 2020-2024 trends and forecasts for upcoming months/years
+  - **Dashboard Design**: Choice of widgets, layout, multi-city interactivity
+  - **Final Report (collaborative work)**: Writing the PDF (summary, screenshots, references)
 
 ## Usage
 This project was developed using Google Colab.  
