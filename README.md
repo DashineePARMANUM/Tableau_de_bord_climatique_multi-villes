@@ -19,6 +19,7 @@ Projet en binôme pour SDS 3786 - Laboratoire en science des données
   - `Étape1-Proposition_de_projet-SDS3786-Groupe5.pdf` = proposition initiale du project
   - `Étape2-Présentation_du_projet-SDS3786-Groupe5.pdf` = diapositifs pour la présentation en classe
   - `project_rapport_SDS3786_Groupe5.pdf` = rapport utilisé pour la présentation video finale
+  - `revised_activity_table.png` = capture d’écran du tableau d’activités révisé, avec de légères modifications par rapport à la version initiale (étape 1) et à la version finale du rapport
 
 ## Contributions
 - Dashinee :
@@ -70,6 +71,7 @@ Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
   - `Étape1_Proposition_de_projet_SDS3786_Groupe5.pdf` = initial project proposal  
   - `Étape2_Presentation_du_projet_SDS3786_Groupe5.pdf` = in-class presentation slides  
   - `project_rapport_SDS3786_Groupe5.pdf` = report used for final video presentation
+  - `revised_activity_table.png` = screenshot of the revised activity table, with minor changes from the initial (Step 1) and final report versions
 
 ## Contributions
 - Dashinee:
