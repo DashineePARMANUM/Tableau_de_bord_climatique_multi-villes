@@ -1,7 +1,7 @@
 # Tableau de bord climatique multi-villes
 Projet en binôme pour SDS 3786 - Laboratoire en science des données  
   
-**Note** : Ce dépôt a été créé et maintenu par moi après la fin du projet du cours. Il s’agit d’une organisation personnelle et indépendante du travail, à des fins de partage et de portfolio.
+**Note :** Ce dépôt a été créé et maintenu par moi après la fin du projet du cours. Il s’agit d’une organisation personnelle et indépendante du travail, à des fins de partage et de portfolio.
 
 ## Fichiers et dossiers
 - **`code`:**
@@ -50,7 +50,9 @@ Pour reproduire les résultats :
 ---
 ---
 # Multi-city Climate Dashboard
-Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
+Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)  
+  
+**Note :** Ce dépôt a été créé et maintenu par moi après la fin du projet du cours. Il s’agit d’une organisation personnelle et indépendante du travail, à des fins de partage et de portfolio.  
 
 ## Files and Folders
 - **`code`**
