@@ -23,7 +23,7 @@ Projet en binôme pour SDS 3786 - Laboratoire en science des données
 
 ## Contributions
 - Dashinee :
-  - **Collecte des données**: Téléchargement des 6 fichiers CSV (Canada, Île Maurice, Bénin)
+  - **Collecte des données**: Téléchargement des 6 fichiers CSV (Ottawa (Canada), Vancouver (Canada), Cotonou (Bénin), Parakou (Bénin), Plaisance (Île Maurice), Vacoas (Île Maurice))
   - **Nettoyage et Fusion**: Uniformisation des colonnes, format de date, suppression des colonnes non utilisées
   - **Analyse exploratoire (EDA)**: Visualisation et calcul de statistiques descriptives pour toutes les villes
   - **Multi-ville et cartes**: Graphiques comparatifs, cartes avec couleurs/clusters, tooltips, indicateurs par ville
@@ -75,7 +75,7 @@ Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)
 
 ## Contributions
 - Dashinee:
-  - **Data Collection**: Downloaded the 6 CSV files (Canada, Mauritius, Benin)
+  - **Data Collection**: Downloaded the 6 CSV files (Ottawa (Canada), Vancouver (Canada), Cotonou (Benin), Parakou (Benin), Plaisance (Mauritius), Vacoas (Mauritius))
   - **Cleaning and Merging**: Standardized columns, formatted dates, removed unused columns
   - **Exploratory Data Analysis (EDA)**: Visualizations and calculation of descriptive statistics for all cities
   - **Multi-city and Maps**: Comparative charts, maps with colors/clusters, tooltips, city-specific indicators
