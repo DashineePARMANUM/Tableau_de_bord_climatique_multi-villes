@@ -103,6 +103,7 @@ To reproduce the results:
 
 ---
 ---
-*Honours Bachelor of Science in Statistics - University of Ottawa*  
-*Contact: dashinee.parmanum@gmail.com*  
+*Honours Bachelor of Science in Statistics / Baccalauréat spécialisé en sciences (statistique)*  
+*University of Ottawa / Université d’Ottawa*  
+*Contact / Coordonnée : dashinee.parmanum@gmail.com*  
 *LinkedIn: https://www.linkedin.com/in/dashinee-parmanum/*
