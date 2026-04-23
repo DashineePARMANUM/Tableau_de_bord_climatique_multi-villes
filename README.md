@@ -51,7 +51,7 @@ Pour reproduire les résultats :
 ---
 ---
 # Multi-city Climate Dashboard
-Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386)  
+Pair project for SDS 3786 - Data Science Laboratory (French section of SDS 3386) [uOttawa]
   
 **Note :** This repository was created and maintained by me after the completion of the course project. It serves as a personal, independent organization of the work for sharing and portfolio purposes. 
 
